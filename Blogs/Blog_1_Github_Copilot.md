@@ -63,7 +63,7 @@ The journey ahead for GitHub Copilot brims with promise. The realm of AI technol
 
 ## **Now, It's Time for Amazing Tips and Tricks**
 
-![Code Snippets](https://github.com/Navansh/mlsa-social-impact-projects/assets/21141664/33888bf4-f3d8-4ae3-ad72-f9f23cbf481a)
+![Firefly An image describing -github Copilot-, and how it is interacting with the code in the laptop ](https://github.com/Navansh/mlsa-social-impact-projects/assets/21141664/ffba2a5d-4d3b-408b-8b41-337432a0b435)
 
 ### **1) Writing Leading Comments for Context**
 
