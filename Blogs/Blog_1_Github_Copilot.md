@@ -1,5 +1,28 @@
 # GitHub Copilot: How It Works and Useful Tips and Tricks
 
+## Table of Contents
+- [Decoding the Magic: How GitHub Copilot Understands and Generates Code](#decoding-the-magic-how-github-copilot-understands-and-generates-code)
+- [Understanding the Foundation: AI and Machine Learning](#understanding-the-foundation-ai-and-machine-learning)
+- [The Technology Behind GitHub Copilot](#the-technology-behind-github-copilot)
+- [Data Collection and Pre-Processing](#data-collection-and-pre-processing)
+- [Training the AI Model](#training-the-ai-model)
+- [Code Suggestions and Context Understanding](#code-suggestions-and-context-understanding)
+- [Learning from Feedback](#learning-from-feedback)
+- [Addressing Concerns: Code Quality and Bias](#addressing-concerns-code-quality-and-bias)
+- [Future Directions and Improvements](#future-directions-and-improvements)
+- [Now, It's Time for Amazing Tips and Tricks](#now-its-time-for-amazing-tips-and-tricks)
+  - [1) Writing Leading Comments for Context](#1-writing-leading-comments-for-context)
+  - [2) Learning the Keyboard Shortcuts](#2-learning-the-keyboard-shortcuts)
+  - [3) Giving Copilot Structure to Work With](#3-giving-copilot-structure-to-work-with)
+  - [4) Copilot Can Help with CLI Commands](#4-copilot-can-help-with-cli-commands)
+  - [5) Copilot Is Great at Repetitive Tasks, Like Writing Tests](#5-copilot-is-great-at-repetitive-tasks-like-writing-tests)
+  - [6) Copilot Can Write Comments for You, Too!](#6-copilot-can-write-comments-for-you-too)
+  - [7) Copilot Can Explain Code to You (via Copilot Labs)](#7-copilot-can-explain-code-to-you-via-copilot-labs)
+  - [8) Copilot Can Help You Learn a New Coding Language](#8-copilot-can-help-you-learn-a-new-coding-language)
+  - [9) If Copilot's Code Is Way Off, Just Keep Building](#9-if-copilots-code-is-way-off-just-keep-building)
+- [Conclusion](#conclusion)
+- [References](#references)
+
 ## **Decoding the Magic: How GitHub Copilot Understands and Generates Code**
 
 ![GitHub Copilot](https://github.com/Navansh/mlsa-social-impact-projects/assets/21141664/69cbd105-9fdc-445c-a1d0-165d19f04472)
@@ -38,7 +61,7 @@ While GitHub Copilot wields immense potential, concerns about code quality and b
 
 The journey ahead for GitHub Copilot brims with promise. The realm of AI technologies is ever-evolving, opening avenues for more advanced features and capabilities. Research and development endeavors continue to grapple with challenges and refine Copilot's skill set, ushering in a new era of collaborative and intelligent software development.
 
-## **Now, it's time for amazing Tips and Tricks**
+## **Now, It's Time for Amazing Tips and Tricks**
 
 ![Code Snippets](https://github.com/Navansh/mlsa-social-impact-projects/assets/21141664/33888bf4-f3d8-4ae3-ad72-f9f23cbf481a)
 
