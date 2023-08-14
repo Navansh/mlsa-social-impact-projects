@@ -37,7 +37,7 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 Have questions, suggestions, or ideas? Feel free to reach out to us:
 Navansh : https://www.linkedin.com/in/navansh-khandelwal/
 
-- Project Lead: [Navansh](https://github.com/Navansh)
+- Project Lead: [Navansh](https://github.com/Navansh) , [Alekhya](https://github.com/Navansh)
 - Email: [Email Me !](mailto:dev.navansh@gmail.com)
 - MLSA Community: [Microsoft Learn Student Ambassadors](https://mvp.microsoft.com/studentambassadors)
 
