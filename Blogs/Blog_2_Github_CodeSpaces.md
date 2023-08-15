@@ -1,6 +1,8 @@
-"Empowering Developers: Unleash Your Coding Potential with GitHub Codespaces"
+#"Empowering Developers: Unleash Your Coding Potential with GitHub Codespaces"
 
-Introduction to GitHub Codespaces:
+##Table of Contents
+- [Introduction to GitHub Codespaces](#decoding-the-magic-how-github-copilot-understands-and-generates-code)
+##**Introduction to GitHub Codespaces:**
 •	What is GitHub Codespaces?
 GitHub Codespaces is a cloud-based development environment that lets you code, build, and run your projects in a containerized environment. It's perfect for working on projects with others, as everyone has their own isolated environment. Codespaces is also great for testing new code, as you don't have to worry about messing up your local machine
 •	Brief overview of its features and benefits.
