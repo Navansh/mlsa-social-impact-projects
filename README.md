@@ -18,7 +18,7 @@ The MLSA Blogs Project aims to provide a platform where MLSAs can contribute blo
 
 - **Blog Submission:** MLSAs can submit their technical blog posts on a wide range of subjects, from coding tutorials to industry insights.
 - **Categorized Posts:** Blogs are organized into categories for easy navigation, making it simple for readers to find content relevant to their interests.
-- **Simple yet Dynamic Way of Writing : ** Blogs are written in such a manner, that the person with the least amount of technical knowledge can grasp at least the vibe of the blog.
+- **Simple yet Dynamic Way of Writing :** Blogs are written in such a manner, that the person with the least amount of technical knowledge can grasp at least the vibe of the blog.
 
 
 3. Explore the blogs, make changes, and submit pull requests for your contributions.
