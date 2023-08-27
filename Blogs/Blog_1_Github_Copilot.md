@@ -142,4 +142,4 @@ Each of these GitHub Copilot tricks has the potential to enhance your coding exp
 In the symphony of software development, GitHub Copilot emerges as a harmonious blend of AI, ML, and human ingenuity. By delving into the intricacies of language, context, and patterns, it forges a bridge between developers and machines. GitHub Copilot not only streamlines coding tasks but also transforms the development landscape, exemplifying the remarkable interplay between AI and human expertise. As we navigate this transformative era, GitHub Copilot serves as a beacon of innovation, illuminating the path toward a more intelligent and efficient coding journey.
 
 *References:*
-https://medium.com/infinite-red/getting-the-most-from-github-copilot-8f7b32014748
+https://medium.com/infinite-red/getting-the-most-from-github-copilot-8f7b32014748.
