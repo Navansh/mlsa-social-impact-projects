@@ -23,7 +23,7 @@ The MLSA Blogs Project aims to provide a platform where MLSAs can contribute blo
 
 3. Explore the blogs, make changes, and submit pull requests for your contributions.
 
-##Ambassador's Project demo video
+## Ambassador's Project demo video
 
 https://stdntpartners-my.sharepoint.com/:v:/g/personal/anushka_saxena_studentambassadors_com/ERs4Dcm-kZdBi08qaotlXBQBZXfjECIwNw7p8SJQX5tv3Q?e=gD6s1R
 
